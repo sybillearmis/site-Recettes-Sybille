@@ -1,0 +1,15 @@
+.ingrédients{
+    list-style: none;
+}
+
+.jumbotron {
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("pasta.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  
